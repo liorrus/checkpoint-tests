@@ -1,0 +1,4 @@
+runing the test:
+1. pip install -r requiremts.txt
+2. make sure localstack is up and the app is runing (I.E localstack start, terraform apply, kubectl apply -f k8s)
+3. python main.py
